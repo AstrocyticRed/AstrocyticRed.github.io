@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://pubmed.ncbi.nlm.nih.gov/31551785/
 excerpt: 'This paper is about a novel caffeine administration modality '
 date: 2019-10-09
-venue: 'Frontiers Pharmacology'
+venue: 'Frontiers in Pharmacology'
 #slidesurl: ''
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31551785/'
 #bibtexurl: ''
