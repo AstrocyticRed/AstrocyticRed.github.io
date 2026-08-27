@@ -6,7 +6,7 @@ permalink: [/publication/2009-10-01-paper-title-number-1](https://pubmed.ncbi.nl
 excerpt: 'This paper is about a novel caffeine administration modality '
 date: 2019-10-09
 venue: 'Frontiers Pharmacology'
-#slidesurl: ''
+slidesurl: ''
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://pubmed.ncbi.nlm.nih.gov/31551785/)'
 bibtexurl: ''
 citation: ''
