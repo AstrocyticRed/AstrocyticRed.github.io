@@ -3,7 +3,7 @@ title: "Comparative Assessment of TSPO Modulators on Electroencephalogram Activi
 collection: publications
 category: manuscripts
 permalink: https://pubmed.ncbi.nlm.nih.gov/35444539/
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about the EEG work I did when looking into various TSPO ligands'
 date: 2022-04-04
 venue: 'Frontiers in Pharmacology'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
