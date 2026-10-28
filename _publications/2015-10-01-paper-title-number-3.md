@@ -2,7 +2,7 @@
 title: "Comparative Assessment of TSPO Modulators on Electroencephalogram Activity and Exploratory Behavior"
 collection: publications
 category: manuscripts
-permalink: https://pubmed.ncbi.nlm.nih.gov/35444539/
+permalink: /publication/2022-04-04-comparative-assessment-tspo-modulators/
 excerpt: 'This paper is about the EEG work I did when looking into various TSPO ligands'
 date: 2022-04-04
 venue: 'Frontiers in Pharmacology'
